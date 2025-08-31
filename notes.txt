@@ -1,0 +1,7 @@
+dotnet new list => give you a list of projects can create.
+dotnet new webapi -h => help in creating 
+
+solution file => container for the dotnet projects
+dotnet new sln
+
+dotnet new webapi -controllers -n API
